@@ -1,0 +1,5 @@
+https://www.nxp.com/docs/en/data-sheet/LPC2292_2294.pdf
+
+https://www.nxp.com/docs/en/user-guide/UM10114.pdf
+
+https://www.olimex.com/Products/ARM/NXP/LPC-H2294/resources/LPC-H2294_sch.pdf
