@@ -1,3 +1,0 @@
-/home/dspproject/stm32/stm32f407g-disc1-freertos/cmake-build-debug/CMakeFiles/stm32f407g-disc1.elf.dir
-/home/dspproject/stm32/stm32f407g-disc1-freertos/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dspproject/stm32/stm32f407g-disc1-freertos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
